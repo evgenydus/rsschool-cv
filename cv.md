@@ -28,3 +28,15 @@ check github for more examples
 * Completed HTML and CSS basics courses on codeacademy and htmlacademy;
 * Completed RS School course;
 * Working as freelanser.
+
+### Education:
+* Belorussian State University of Physical Culture (Graduated in 2013);
+* Selfeducating soft skills;
+* Rolling Scopes School: Front-End Developer;
+* Selfeducating with mentor.
+
+### English: B2.
+* Started study at school; 
+* Few sport camps with all foreing participants;
+* Many friend to talk with from different countries;
+* Self-practicing.

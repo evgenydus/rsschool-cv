@@ -1,0 +1,98 @@
+body {
+  margin: 30px auto;
+  max-width: 1024px;
+
+  font-family: "Raleway", "Arial", sans-serif;
+  text-align: justify;
+
+  border-radius: 5px;
+  box-shadow: 0 5px 25px 0 rgba(0, 0, 0, 0.15);
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+
+  padding: 40px 25px;
+
+  background-color: #F2F2F2;
+}
+
+.avatar-block {
+  display: inline-block;
+}
+.name-block {
+  display: inline-block;
+
+  margin-left: 25px;
+  margin-top: 0;
+}
+.name {
+  margin-top: 0;
+  margin-bottom: 10px;
+
+  font-size: 40px;
+}
+
+.profession {
+  margin: 0;
+
+  font-size: 24px;
+
+  opacity: 0.5;
+}
+
+.contacts .text {
+  padding: 0;
+  margin: 0;
+
+  list-style: none;
+}
+
+.contact-item {
+  margin-bottom: 5px;
+
+  font-weight: bold;
+}
+
+.contact-content,
+.link {
+  font-weight: normal;
+}
+
+.avatar {
+  max-width: 130px;
+
+  border-radius: 100%;
+}
+
+.about-me {
+  padding: 20px 50px;
+}
+
+.text {
+  font-family: "Raleway", "Arial", sans-serif;
+  font-size: 20px;
+  line-height: 27px;
+}
+
+.subtitle {
+  margin-top: 30px;
+  margin-bottom: 15px;
+
+  font-size: 29px;
+  text-transform: uppercase;
+}
+
+.link,
+.link:visited,
+.link:active {
+  color: #000;
+}
+
+.link:hover {
+  text-decoration: none;
+  cursor: pointer;
+  opacity: 0.8;
+  transition: opacity 250ms ease;
+}

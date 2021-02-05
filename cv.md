@@ -27,7 +27,7 @@ check github for more examples
 * Few completed markups; 
 * Completed HTML and CSS basics courses on codeacademy and htmlacademy;
 * Completed RS School course;
-* Working as freelanser.
+* Working as freelancer.
 
 ### Education:
 * Belorussian State University of Physical Culture (Graduated in 2013);
